@@ -1,0 +1,5 @@
+2022-05-01 04:11:50,714:INFO:Webscrapping started.
+2022-05-01 04:20:25,287:INFO:Scrapping Finished
+2022-05-01 04:20:25,375:INFO:Number of rows: 250
+2022-05-01 04:23:31,521:INFO:Connected to Google Cloud MySQL successfully!
+2022-05-01 04:25:14,584:INFO:Table created successfully!
